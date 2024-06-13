@@ -1,0 +1,3 @@
+﻿  adade.cpp
+C:\Users\kadir\source\repos\chislaki\chislaki\adade.cpp(156): warning C4715: control: значение возвращается не при всех путях выполнения
+  chislaki.vcxproj -> C:\Users\kadir\source\repos\chislaki\Debug\chislaki.exe
