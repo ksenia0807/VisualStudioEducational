@@ -1,0 +1,30 @@
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\bin\Debug\Course_paper.exe.config
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\bin\Debug\Course_paper.exe
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\bin\Debug\Course_paper.pdb
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\obj\Debug\Course_paper.csproj.AssemblyReference.cache
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\obj\Debug\Course_paper.Form1.resources
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\obj\Debug\Course_paper.Properties.Resources.resources
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\obj\Debug\Course_paper.csproj.GenerateResource.cache
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\obj\Debug\Course_paper.csproj.CoreCompileInputs.cache
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\obj\Debug\Course_paper.exe
+D:\Users\Алина Аитова\source\source с диска C\repos\Course_paper\Course_paper\obj\Debug\Course_paper.pdb
+C:\Users\kadir\source\repos\Course_paper\Course_paper\bin\Debug\Course_paper.exe.config
+C:\Users\kadir\source\repos\Course_paper\Course_paper\bin\Debug\Course_paper.exe
+C:\Users\kadir\source\repos\Course_paper\Course_paper\bin\Debug\Course_paper.pdb
+C:\Users\kadir\source\repos\Course_paper\Course_paper\obj\Debug\Course_paper.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\Course_paper\Course_paper\obj\Debug\Course_paper.Form1.resources
+C:\Users\kadir\source\repos\Course_paper\Course_paper\obj\Debug\Course_paper.Properties.Resources.resources
+C:\Users\kadir\source\repos\Course_paper\Course_paper\obj\Debug\Course_paper.csproj.GenerateResource.cache
+C:\Users\kadir\source\repos\Course_paper\Course_paper\obj\Debug\Course_paper.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\Course_paper\Course_paper\obj\Debug\Course_paper.exe
+C:\Users\kadir\source\repos\Course_paper\Course_paper\obj\Debug\Course_paper.pdb
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\bin\Debug\Course_paper.exe.config
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\bin\Debug\Course_paper.exe
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\bin\Debug\Course_paper.pdb
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\obj\Debug\Course_paper.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\obj\Debug\Course_paper.Form1.resources
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\obj\Debug\Course_paper.Properties.Resources.resources
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\obj\Debug\Course_paper.csproj.GenerateResource.cache
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\obj\Debug\Course_paper.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\obj\Debug\Course_paper.exe
+C:\Users\kadir\source\repos\Course_paper — копия\Course_paper\obj\Debug\Course_paper.pdb
