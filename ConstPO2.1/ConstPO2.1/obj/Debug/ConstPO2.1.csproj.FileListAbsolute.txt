@@ -1,0 +1,7 @@
+C:\Users\kadir\source\repos\ConstPO2.1\ConstPO2.1\bin\Debug\ConstPO2.1.exe.config
+C:\Users\kadir\source\repos\ConstPO2.1\ConstPO2.1\bin\Debug\ConstPO2.1.exe
+C:\Users\kadir\source\repos\ConstPO2.1\ConstPO2.1\bin\Debug\ConstPO2.1.pdb
+C:\Users\kadir\source\repos\ConstPO2.1\ConstPO2.1\obj\Debug\ConstPO2.1.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\ConstPO2.1\ConstPO2.1\obj\Debug\ConstPO2.1.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\ConstPO2.1\ConstPO2.1\obj\Debug\ConstPO2.1.exe
+C:\Users\kadir\source\repos\ConstPO2.1\ConstPO2.1\obj\Debug\ConstPO2.1.pdb
