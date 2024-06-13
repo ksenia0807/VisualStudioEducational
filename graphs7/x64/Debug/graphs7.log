@@ -1,0 +1,48 @@
+﻿  Graph.cpp
+C:\Users\prett\source\repos\graphs7\Graph.cpp(41,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\prett\source\repos\graphs7\Graph.cpp(291,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  graphs7.cpp
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(29,38): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(64,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(66,35): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(96,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(100,86): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\prett\source\repos\graphs7\graphs7.cpp(116,79): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\prett\source\repos\graphs7\graphs7.cpp(21,6): warning C4101: startVertex: неиспользованная локальная переменная
+  Johnson.cpp
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(29,38): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(64,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(66,35): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(96,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\prett\source\repos\graphs7\Johnson.cpp(100,86): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Создание кода...
+C:\Users\prett\source\repos\graphs7\Graph.cpp(78): warning C4715: Graph::weight: значение возвращается не при всех путях выполнения
+  graphs7.vcxproj -> C:\Users\prett\source\repos\graphs7\x64\Debug\graphs7.exe
