@@ -1,0 +1,4 @@
+﻿  DFS.cpp
+C:\Users\prett\source\repos\graphs3\DFS.cpp(16,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\prett\source\repos\graphs3\DFS.cpp(44,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  graphs3.vcxproj -> C:\Users\prett\source\repos\graphs3\x64\Debug\graphs3.exe
