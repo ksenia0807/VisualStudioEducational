@@ -1,0 +1,10 @@
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\bin\Debug\Multicoocker.exe.config
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\bin\Debug\Multicoocker.exe
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\bin\Debug\Multicoocker.pdb
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\obj\Debug\Multicoocker.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\obj\Debug\Multicoocker.Properties.Resources.resources
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\obj\Debug\Multicoocker.csproj.GenerateResource.cache
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\obj\Debug\Multicoocker.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\obj\Debug\Multicoocker.exe
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\obj\Debug\Multicoocker.pdb
+C:\Users\kadir\source\repos\Multicoocker\Multicoocker\obj\Debug\Multicoocker.Form1.resources
